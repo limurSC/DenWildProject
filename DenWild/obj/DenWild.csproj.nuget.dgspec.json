@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWild\\DenWild.csproj": {}
+    "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWildProject\\DenWild\\DenWild.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWild\\DenWild.csproj": {
+    "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWildProject\\DenWild\\DenWild.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWild\\DenWild.csproj",
+        "projectUniqueName": "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWildProject\\DenWild\\DenWild.csproj",
         "projectName": "DenWild",
-        "projectPath": "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWild\\DenWild.csproj",
+        "projectPath": "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWildProject\\DenWild\\DenWild.csproj",
         "packagesPath": "C:\\Users\\Ilnur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWild\\obj\\",
+        "outputPath": "C:\\Users\\Ilnur\\Desktop\\Игры\\monogameGames\\DenWild\\DenWildProject\\DenWild\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
